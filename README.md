@@ -7,3 +7,5 @@ Search function to allow user to search for parts and products based on their na
 
 Program comes with filler parts and products already set up. These parts are set up as computer parts and computers. 
 Though the user can set it up to be whatever part/products they choose. 
+
+Created with JavaFX and Scene Builder. 
